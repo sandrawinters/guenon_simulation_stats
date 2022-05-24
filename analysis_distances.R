@@ -28,7 +28,7 @@ burnin=10000
 thin=50
 
 # get data ----------
-dat = read.csv('data_variation_end.csv',stringsAsFactors=F)
+dat = read.csv('simulation_data.csv',stringsAsFactors=F)
 
 dat$mating = factor(dat$mating)
 

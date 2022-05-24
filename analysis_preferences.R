@@ -28,7 +28,7 @@ burnin=50000
 thin=500
 
 # get data ----------
-dat = read.csv('data_variation_end.csv')
+dat = read.csv('simulation_data.csv')
 
 dat = dat[,c('mating','propAllo','hybridVia','encFreq','npop','itt','pop','biasMean','meanDistBT','meanDistWI')]
 
