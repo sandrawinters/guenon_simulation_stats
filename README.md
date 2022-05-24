@@ -8,7 +8,7 @@ Please cite:
 Winters S & Higham JP. 2022. Simulated evolution of mating signal diversification in a primate radiation. Proceedings of the Royal Society B: Biological Sciences. https://doi.org/10.1098/rspb.2022.0734
 
 Usage: 
-* Run simulations using code available here: https://github.com/sandrawinters/guenon_evolutionary_simulations
+* Run simulations using code available here: https://doi.org/10.5281/zenodo.6576519
 
 * Move all auto-generated folders of results to a folder called 'simulation_results'. The following scripts will work if this folder is in the current directory for MATLAB & R; alternatively, the location of this folder can be set at the beginning of each script.
 
